@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts & standalone binaries
+build/
+dist/
+*.manifest
+
+# Installer / Environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.sw?
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Log files
+*.log
